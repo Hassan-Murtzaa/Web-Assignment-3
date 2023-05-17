@@ -1,0 +1,54 @@
+.signup-form {
+  max-width: 300px;
+  margin: 150px auto;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.signup-form h2 {
+  text-align: center;
+}
+
+.signup-form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.signup-form input[type="text"],
+.signup-form input[type="password"] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.signup-form .action-button {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  background-color: #e26c0b;
+  color: #0b0909;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  border-radius: 10%;
+}
+
+/* .signup-form .cancel-button {
+  display: inline-block;
+  margin-left: 10px;
+  background-color: #ccc;
+}
+
+.signup-form .signup-actions {
+  text-align: center;
+}
+
+.signup-form .update-password-actions {
+  text-align: center;
+  margin-top: 10px;
+} */

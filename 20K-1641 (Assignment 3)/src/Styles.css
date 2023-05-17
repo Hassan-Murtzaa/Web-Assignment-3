@@ -1,0 +1,35 @@
+body {
+  background: url("2.jpg");
+}
+
+.Hassan {
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+button {
+  background-color: #e26c0b;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 8px 7px;
+  border-radius: 10%;
+  cursor: pointer;
+  padding: 30px 70px;
+}
+
+h4,
+h2,
+p,
+h3,
+h5 {
+  color: rgb(9, 8, 8);
+}
+
+label,
+li {
+  color: rgb(9, 8, 8);
+}
